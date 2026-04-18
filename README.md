@@ -1,5 +1,5 @@
 <p align="center">
-  Продакшн-версия: https://www.gaz-stroy.com
+  Продакшн-версия: https://gaz-stroy.com
 </p>
 
 <p align="center">
